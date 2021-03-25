@@ -338,3 +338,9 @@ textarea{
 
 }
 
+head{
+	position: absolute;
+	margin-bottom: px;
+	margin-right: px;
+}
+
